@@ -2,7 +2,6 @@
 from load_data import *
 from model import *
 from config import config
-import os
 import sys
 
 import tensorflow as tf
