@@ -1,6 +1,5 @@
 
 from utils import *
-import numpy as np
 
 # AMI-NET++ with only binary features
 class Graph(tf.keras.Model):
