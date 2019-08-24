@@ -14,7 +14,7 @@ your research.
  
 ## Data Description
 
-* **sample_data.xlsx**: There are 3182 sample cases from the whole "Western Medicine" dataset. The column "y" is the binary prediction target. The other 88 columns are all binary features, i.e., whether the patient has this symptom. And for each case, there exist at most 21 features and 5 at least, representing the individual patient condition.
+* **sample_data.xlsx**: There are 3182 sample cases randomly extracted from the whole "Western Medicine" dataset. The column "y" is the binary prediction target. The other 88 columns are all binary features, i.e., whether the patient has this symptom. And for each case, there exist at most 21 features and 5 at least, representing the individual patient condition.
 
 ## File Description
 
