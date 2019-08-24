@@ -1,7 +1,7 @@
 
 from utils import *
 
-# AMI-NET++ with only binary features
+# AMI-NET
 class Graph(tf.keras.Model):
 
     def __init__(self, tokens, d_model, feat_max, num_heads, rate):
