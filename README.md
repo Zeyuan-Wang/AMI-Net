@@ -9,7 +9,7 @@ your research.
 * AMI-Net is developed for resolving the problems of *incomplete data, label and feature noise existing, redundant and highly correlated features*, in medical outcome prediction.
 * It mainly consists of *word embedding, multi-head attention, attention-based pooling*, and uses the **multi-instance neural network** to integrate all computational modules. The overall architecture shows here.
 
-<div align="middle"><img src="https://github.com/Zeyuan-Wang/img/AMI-Net.png"width="80%"></div>
+<div align="middle"><img src="https://github.com/Zeyuan-Wang/AMI-Net/tree/master/img/AMI-Net.png"width="80%"></div>
 
 ## Data Description
 
